@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\aula07_manipula-o_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\aula07_manipula-o_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\aula07_manipula-o_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\aula07_manipula-o_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.AssemblyInfo.cs
